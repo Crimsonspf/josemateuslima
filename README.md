@@ -16,9 +16,7 @@ Atualmente cursando o 4º semestre e buscando oportunidades para aplicar e expan
 - [Organização de Livros](link_para_repositório) - Aplicação Java com MySQL para gerenciamento de coleções
 - [Catalogação de Veículos]((https://github.com/Crimsonspf/Projeto-Catalogo-Veicular)) - Sistema web para registro de marcas e modelos
 - [Cálculo de Rotas](https://github.com/Crimsonspf/Tour-d-Europe) - Implementação de algoritmos Dijkstra e A* para otimização de rotas
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula)
+- [Aplicação Pokemon](https://github.com/Crimsonspf/Jogo-Pokemon) - aplicação de simulação de jogo Pokémon desenvolvida em Java, que implementa conceitos de programação orientada a objetos e padrões de design
 
 ### 📫 Contato
 - LinkedIn: [José Mateus Carlos Lima](www.linkedin.com/in/josé-mateus-lima-05b519300)
